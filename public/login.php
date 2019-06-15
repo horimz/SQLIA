@@ -8,8 +8,8 @@ $password = '';
 
 if(is_post_request()) {
   $username = $_POST['username'] ?? '';
-  $password = $_POST['password'] ?? '';
-
+	$password = $_POST['password'] ?? '';
+	
   // Validations
   if(is_blank($username)) {
     $errors[] = "Username cannot be blank.";
@@ -24,18 +24,20 @@ if(is_post_request()) {
     // Using one variable ensures that msg is the same
 	$login_failure_msg = "Log in was unsuccessful.";
 	
-    $user = find_user_by_username($username);
+		$user = find_user_by_username_safe($username);
     if($user) {
       if(password_verify($password, $user['hashed_password'])) {
-        // password matches
+				// password matches
         log_in($user);
         redirect_to(url_for('/index.php'));
       } else {
+				print("Failed to login");
         // username found, but password does not match
         $errors[] = $login_failure_msg;
       }
     } else {
-      // no username found
+			// no username found
+			print("Failed to login");
       $errors[] = $login_failure_msg;
     }
   }
@@ -49,7 +51,7 @@ if(is_post_request()) {
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<!-- <link rel="icon" type="image/png" href="images/icons/favicon.ico"/> -->
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -113,8 +115,16 @@ if(is_post_request()) {
 							Login
 						</button>
 					</div>
-
 				</form>
+
+				<form action="signup.php" method="get">
+					<div class="container-login100-form-btn m-t-17">
+						<button class="login100-form-btn" type="submit">
+							Sign up
+						</button>
+					</div>
+				</form>
+
 			</div>
 		</div>
 	</div>

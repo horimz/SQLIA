@@ -1,5 +1,7 @@
 <?php
 
+/* These functions are used to validate user input */
+
 // is_blank('abcd')
 // * validate data presence
 // * uses trim() so empty spaces don't count
@@ -73,7 +75,7 @@ function has_exclusion_of($value, $set) {
     return !in_array($value, $set);
 }
 
-// has_string('nobody@nowhere.com', '.com')
+// has_string('jungmin@park.com', '.com')
 // * validate inclusion of character(s)
 // * strpos returns string start position or false
 // * uses !== to prevent position 0 from being considered false
@@ -82,7 +84,7 @@ function has_string($value, $required_string) {
     return strpos($value, $required_string) !== false;
 }
 
-// has_valid_email_format('nobody@nowhere.com')
+// has_valid_email_format('jungmin@park.com')
 // * validate correct format for email addresses
 // * format: [chars]@[chars].[2+ letters]
 // * preg_match is helpful, uses a regular expression
@@ -93,11 +95,11 @@ function has_valid_email_format($value) {
     return preg_match($email_regex, $value) === 1;
 }
 
-// has_unique_username('johnqpublic')
-// * Validates uniqueness of admins.username
+// has_unique_username('jungmin')
+// * Validates uniqueness of username
 // * For new records, provide only the username.
 // * For existing records, provide current ID as second argument
-//   has_unique_username('johnqpublic', 4)
+//   has_unique_username('jungmin', 4)
 function has_unique_username($username, $current_id="0") {
     global $db;
     $sql = "SELECT * FROM users ";

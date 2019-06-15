@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jinsoo/Desktop/Information-Security/ML/runs/1558760702/checkpoints/model-100"
+all_model_checkpoint_paths: "/home/jinsoo/Desktop/Information-Security/ML/runs/1558760702/checkpoints/model-100"

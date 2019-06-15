@@ -7,14 +7,18 @@ function url_for($script_path) {
     return $script_path;
 }
 
+// This function is convenient when encoding a string to be used in a query part of a URL, 
+// as a convenient way to pass variables to the next page.
 function u($string="") {
     return urlencode($string);
 }
   
+// Encodes the given string according to » RFC 3986.
 function raw_u($string="") {
     return rawurlencode($string);
 }
   
+// Convert special characters to HTML entities.
 function h($string="") {
     return htmlspecialchars($string);
 }
@@ -41,7 +45,7 @@ function is_post_request() {
 function is_get_request() {
     return $_SERVER['REQUEST_METHOD'] == 'GET';
 }
-  
+
 function display_errors($errors=array()) {
     $output = '';
     if(!empty($errors)) {
@@ -55,20 +59,6 @@ function display_errors($errors=array()) {
         $output .= "</div>";
     }
     return $output;
-}
-  
-function get_and_clear_session_message() {
-    if(isset($_SESSION['message']) && $_SESSION['message'] != '') {
-        $msg = $_SESSION['message'];
-        unset($_SESSION['message']);
-        return $msg;
-    }
-}
-function display_session_message() {
-    $msg = get_and_clear_session_message();
-    if(!is_blank($msg)) {
-        return '<div id="message">' . h($msg) . '</div>';
-    }
 }
 
 ?>

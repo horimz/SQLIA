@@ -1,5 +1,7 @@
 <?php
 
+/* Credentials for database access */
+
 define("SERVER", "localhost");
 define("USER", "root");
 define("PASSWORD", "jmp&&1120");
