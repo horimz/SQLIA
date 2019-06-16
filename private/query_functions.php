@@ -45,9 +45,7 @@ function find_user_by_username_vulnerable_version($username) {
 function find_user_by_username_filter_version($username) {
   global $db;
 
-  // 머신러닝 모듈을 돌리면 될 것 같음
-  // $command = escapeshellcmd('python sql_filter.py "' .  $username . '"');
-  // $output = shell_exec($command);
+  // Filtering
   exec('python sql_filter.py "' .  $username . '"', $output, $ret_code);
   print("User input type: ");
   print($output[0]);
