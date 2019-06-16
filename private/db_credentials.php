@@ -4,7 +4,7 @@
 
 define("SERVER", "localhost");
 define("USER", "root");
-define("PASSWORD", "jmp&&1120");
+define("PASSWORD", "adsfasdfasdf"); // Changed password
 define("PROJECT", "information_security_project");
 
 ?>
