@@ -3,9 +3,6 @@
 require_once('../private/initialize.php'); 
 require_login();
 
-
-
-
 $errors = [];
 $username = '';
 $user = '';
@@ -15,8 +12,8 @@ if(is_post_request()) {
     
     $username = $_POST['username'] ?? '';
 
-    // $user = find_user_by_username_vulnerable_version($username);
-    $user = find_user_by_username_filter_version($username);
+    $user = find_user_by_username_vulnerable_version($username);
+    // $user = find_user_by_username_filter_version($username);
 
     if($user) {
 
@@ -80,21 +77,12 @@ if(is_post_request()) {
 
                     <div class="container-login100-form-btn m-t-17">
 
-                    <?php while($data = mysqli_fetch_assoc($user)) { ?>
-                        <?php print("User (" . $data['username'] . ") email is " . $data['email']) ?>                  
-                        <!-- <?php echo "User (" . $data['username'] . ") email is " . $data['email'] ?>                   -->
-                        <?php echo "<br>" ?>
-                    <?php } ?>
-                    
-                    
-                    
-                    <!-- <?php
+                        <?php while($data = mysqli_fetch_assoc($user)) { ?>
+                            <?php print("User (" . $data['username'] . ") email is " . $data['email']) ?>                  
+                            <!-- <?php echo "User (" . $data['username'] . ") email is " . $data['email'] ?>                   -->
+                            <?php echo "<br>" ?>
+                        <?php } ?>
 
-                    if (is_post_request()) {
-                        var_dump($user);
-                    }
-
-                    ?> -->
 					</div>
                     
 				</form>
