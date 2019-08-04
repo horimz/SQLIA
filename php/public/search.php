@@ -11,8 +11,8 @@ $user = '';
 if(is_post_request()) {
   $username = $_POST['username'] ?? '';
 
-  // $user = find_user_by_username_vulnerable_version($username);
-  $user = find_user_by_username_filter_version($username);
+  $user = find_user_by_username_vulnerable_version($username);
+  // $user = find_user_by_username_filter_version($username);
 
   if($user) {
   } else {
