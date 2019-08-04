@@ -35,7 +35,7 @@ function is_logged_in() {
 // require a valid login before granting acccess to the page.
 function require_login() {
     if(!is_logged_in()) {
-        redirect_to(url_for('/login.php'));
+        redirect_to(url_for('/public/login.php'));
     } else {
       // Do nothing, let the rest of the page proceed
     }

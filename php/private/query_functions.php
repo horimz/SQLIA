@@ -27,8 +27,9 @@ function find_user_by_username_vulnerable_version($username) {
   print($sql);
   echo "<br>";
 
-  $result = mysqli_query($db, $sql); 
-  confirm_result_set($result);
+  mysqli_multi_query($db, $sql); 
+  $results = mysqli_store_result($db);
+  $result = mysqli_fetch_row($results);
 
   return $result;
 }
@@ -48,8 +49,9 @@ function find_user_by_username_filter_version($username) {
   echo "<br>";
 
   if ($ret_code == 0) {
-      $result = mysqli_query($db, $sql); 
-      confirm_result_set($result);
+    mysqli_multi_query($db, $sql); 
+    $results = mysqli_store_result($db);
+    $result = mysqli_fetch_row($results);
   } else {
     exit("Invalid database query.");
   } 
